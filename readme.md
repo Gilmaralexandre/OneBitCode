@@ -20,5 +20,3 @@
 - Transform
 - Transition
 - Animação
-
-! Imagem.jpeg![Imagem](C:\Users\gilma\Downloads\OneBitCode\Imagem.jpeg)
